@@ -115,3 +115,4 @@ export default {
 * https://github.com/daggerok/vue-ionic-example
 * https://github.com/daggerok/nuxt-examples
 * https://github.com/daggerok/vue-examples
+* https://alligator.io/vuejs/vue-ionic/
