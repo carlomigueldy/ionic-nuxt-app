@@ -111,6 +111,7 @@ export default {
 * https://forum.ionicframework.com/t/is-it-possible-to-use-ionic-with-nuxt/163202/3
 * https://ionicframework.com/docs/installation/cdn
 * [Nuxt.js docs](https://nuxtjs.org)
+* https://github.com/daggerok/webflux-kotlin-ionic-nuxt-mono-app
 * https://github.com/daggerok/typescript-ionic-nuxt-app
 * https://github.com/daggerok/vue-ionic-example
 * https://github.com/daggerok/nuxt-examples
